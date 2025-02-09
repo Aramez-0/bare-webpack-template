@@ -1,1 +1,0 @@
-# bare-webpack-template
